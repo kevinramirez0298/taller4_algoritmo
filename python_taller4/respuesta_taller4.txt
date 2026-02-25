@@ -1,0 +1,10 @@
+ Ejecuten el programa.
+# Aumenten progresivamente los valores de n.
+# Tomen captura de la gráfica.
+# Respondan:
+# ¿Cuál curva crece más rápido?
+#R// la curva que crece mas rapido es la O(n^2) cuadratica ya que con solo 10 datos se empieza a aumentar el rendimiento.
+# ¿Cuál casi no cambia?
+#R// O(n) lineal y O(long n) logaritmica son muy constantes en el rendimiento al procesar los datos
+# ¿Por qué O(n²) se vuelve inviable rápidamente?
+#R// se vuelve inviable rapidamenta porque tiene muchos algoritmos con muchos ciclos repetitivos y disminuye la capacidad de procesar los datos.
